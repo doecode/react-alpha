@@ -8,4 +8,4 @@ Build Steps
 2. From the client folder enter the command "npm run deploy".
 3. Verify that the client is running at localhost:8081
 
-<b>Please note that this repo is only being kept for archival purposes and is not longer being maintained directly by OSTI/DOE CODE staff.</b>
+<em><b>Please note that this repo is only being kept for archival purposes and is not longer being maintained directly by OSTI/DOE CODE staff.</b></em>
