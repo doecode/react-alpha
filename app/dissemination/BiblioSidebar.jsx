@@ -14,7 +14,7 @@ export default class BiblioSidebar extends React.Component {
 
     const fieldMapdata = this.props.pageData.fieldMap;
     const doi = (fieldMapdata.doi)
-      ? "https://dx.doi.org/" + fieldMapdata.doi
+      ? "https://doi.org/" + fieldMapdata.doi
       : "";
 
     var fulltextURL = "";
